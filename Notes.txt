@@ -1,0 +1,54 @@
+Initial Paper Prototype
+
+Main Goal is running an organised crime family.
+
+Soldiers? Lieutenants? --> having cards for each of them. Each with their own strengths and weaknesses
+
+Character traits --> notoriety, Strength(experience), cunning, loyalty, etc (maybe age and family status can play part?) 
+
+Organization reputation --> Feared, respected, etc
+
+Main story --> Deck of cards picked in order that have certain events happening and gives the player choices on what to do.
+
+Side story stuff --> separate deck where side events can happen  
+
+Resources --> money, men/soldiers? (not having a card for them), guns? (commodities? Like alcohol, cars, weapons, etc)
+
+Main mechanic is rolling dice to attempt actions (taking over bars, doing jobs), character traits make the events easier or harder.
+
+Turns? - to simulate time (time soldiers are away on missions)
+
+
+------------------------------------------------------------------------------------------------
+
+First prototype
+
+Foundation
+Get 30 cards (maybe more?)
+	- Soldiers
+	- Events 
+
+Give them to people and ask what they want to do!
+Whether its fun.
+Get ideas
+Take down notes!
+
+
+Research Notes
+- Alphonse Capone
+	- Chicago
+
+- Lucky Luciano
+	- New York
+
+- Dutch Shultz
+	- Blind by inventive method to send message
+
+- Purple Gang
+	- Immense violence
+
+- Rum Row
+
+- Alfie Solomons
+	- "Big fucks small"
+	- "You made a deal without negotiating, you're gonna kill us all arn't ya"
